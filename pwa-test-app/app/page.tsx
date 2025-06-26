@@ -1,8 +1,7 @@
-
 import Head from 'next/head';
 import SWRegister from "./_components/client-component/SWRegister";
-
 export default function Home() {
+  
   return (
     <div className="">
       <Head>
